@@ -19,14 +19,17 @@ Welcome to my repository of **LeetCode Problem Solutions** implemented in **C++*
 ```
 /LeetCode-Solutions
     ├── Easy
-    │   ├── Problem1.cpp
-    │   └── Problem2.cpp
+    │   ├── Name├── Problem1.cpp
+    │   Name
+           └── Problem2.cpp
     ├── Medium
-    │   ├── Problem3.cpp
-    │   └── Problem4.cpp
+    │   ├── Name├── Problem3.cpp
+    │   Name
+           └── Problem4.cpp
     └── Hard
-        ├── Problem5.cpp
-        └── Problem6.cpp
+        ├── Name├── Problem5.cpp
+        Name
+           └── Problem6.cpp
 ```
 
 ## 🚀 Getting Started
